@@ -44,9 +44,9 @@ swap(array, i + 1, last);
 print_array(array, size);
 }
 return (i + 1);
-}
+x}
 /**
- *quiksort - qucksort algorithm implementation
+ *quicksort - qucksort algorithm implementation
  *@array: array
  *@first: first array element
  *@last: last array element
